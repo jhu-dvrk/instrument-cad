@@ -29,7 +29,7 @@ or the use or other dealings in these instrument models.**
 │   │   ├── ...             # Model Mesh OBJ & MTL  Files 
 │   └── README.md           # README file for the tool instrument
 ├── ...                     # Other Tools
-└── README.md               # Overall README files
+└── README.md               # Overall README file
 ```
 
 ## File Explanation
