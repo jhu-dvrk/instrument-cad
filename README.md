@@ -5,7 +5,7 @@ dVRK Instrument CAD files
 
 | # | Folder Name                  | Description                                          |
 |---|------------------------------|------------------------------------------------------|
-| 1 | `Large_Needle_Driver_420009` | Large Needle Driver for da Vinci Si surgical system  |
+| 1 | `Large_Needle_Driver_420006` | Large Needle Driver for da Vinci Si surgical system  |
 
 
 ## Folder Architecture
