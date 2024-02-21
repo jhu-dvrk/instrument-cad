@@ -1,10 +1,14 @@
-# Large Needle Driver 420009
+# Large Needle Driver 420006
 
-`<A GIF for the simulated model?>`
+<p align="center">
+    <img src="README_media/blender_LND420006.gif">
+</p>
 
 ## The Instrument in Real Life
 
-`<Images>`
+<p align="center">
+<img src="README_media/LND420006.jpeg"  width="800"/>
+</p>
 
 ## Assembly
 
