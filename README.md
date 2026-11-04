@@ -1,3 +1,10 @@
+**This repository is archived (November 2026)**
+
+Content has been migrated to lcsr_model which also contains all dVRK CADs, URDFs and launch files:
+https://github.com/jhu-dvrk/dvrk_model
+
+---
+
 # instrument-cad
 dVRK Instrument CAD files
 
